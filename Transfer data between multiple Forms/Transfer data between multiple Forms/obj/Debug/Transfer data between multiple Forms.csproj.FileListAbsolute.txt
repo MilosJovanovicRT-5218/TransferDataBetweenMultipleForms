@@ -1,0 +1,11 @@
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\bin\Debug\Transfer data between multiple Forms.exe.config
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\bin\Debug\Transfer data between multiple Forms.exe
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\bin\Debug\Transfer data between multiple Forms.pdb
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer data between multiple Forms.csprojAssemblyReference.cache
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer_data_between_multiple_Forms.Form1.resources
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer_data_between_multiple_Forms.Properties.Resources.resources
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer data between multiple Forms.csproj.GenerateResource.cache
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer data between multiple Forms.csproj.CoreCompileInputs.cache
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer data between multiple Forms.exe
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer data between multiple Forms.pdb
+D:\PosaoKG\TransferDataMultipleForms\Transfer data between multiple Forms\Transfer data between multiple Forms\obj\Debug\Transfer_data_between_multiple_Forms.Form2.resources
